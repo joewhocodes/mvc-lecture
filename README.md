@@ -77,7 +77,7 @@ Project Link: [https://github.com/joewhocodes/mvc-lecture](https://github.com/jo
 [issues-shield]: https://img.shields.io/github/issues/joewhocodes/mvc-lecture.svg?style=for-the-badge
 [issues-url]: https://github.com/joewhocodes/mvc-lecture/issues
 [license-shield]: https://img.shields.io/github/license/joewhocodes/mvc-lecture.svg?style=for-the-badge
-[license-url]: https://github.com/joewhocodes/mvc-lecture/blob/main/LICENSE.txt
+[license-url]: https://github.com/joewhocodes/mvc-lecture/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joewhocodes
 [product-screenshot]: /src/img/screenshot.png
